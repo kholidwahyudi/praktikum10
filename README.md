@@ -9,9 +9,9 @@
 
 * Sebagai latihan dibawah ini sebagai contoh :
 ### Latihan 1
-[img 1](project14/l1.png)
+![img 1](project14/l1.png)
 ### source code
-[img 2](project14/1.png)
+![img 2](project14/1.png)
 
 Berikut source code yang sudah saya buat :
 ```Python
@@ -37,7 +37,7 @@ print(new_txt)
 print("===================================")
 ```
 ### output
-[img 3](project14/hs1.png)
+![img 3](project14/hs1.png)
 ### Penjelasan
 
 * Fungsi `len()` digunakan untuk mengidentifikasi dan mengetahui seberapa panjang jumlah item atau anggota pada suatu objek.
@@ -47,9 +47,9 @@ print("===================================")
 * Fungsi `lower()` Mengonversi semua huruf besar dalam bentuk string menjadi huruf kecil.
 
 ### Latihan 2
-[img 4](project14/l2.png)
+![img 4](project14/l2.png)
 ### source code
-[img 5](project14/2.png)
+![img 5](project14/2.png)
 
 Berikut source code yang sudah saya buat :
 ```Python
@@ -58,7 +58,7 @@ txt = "Hello nama saya Kholid, dan umur saya %d tahun" % (20)
 print(txt.format(umur))
 ```
 ### output
-[img 6](project14/hs2.png)
+![img 6](project14/hs2.png)
 ### Penjelasan
 
 jadi sintax tambahannya adalah `%d`, `%d` ini berfungsi sebagai bilangan bulat desimal.
